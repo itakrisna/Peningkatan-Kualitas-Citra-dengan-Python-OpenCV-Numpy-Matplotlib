@@ -1,4 +1,4 @@
-![image](https://github.com/itakrisna/Peningkatan-Kualitas-Citra-dengan-Python-OpenCV-Numpy-Matplotlib/assets/152336076/ec80c9d8-aef2-4bd5-af0e-0499ec635cf7)Peningkatan Kualitas Citra dengan Python menggunakan OpenCV Numpy Matplotlib.pyplot
+Peningkatan Kualitas Citra dengan Python menggunakan OpenCV Numpy Matplotlib.pyplot
 
 Beberapa teknik pengolahan citra, termasuk Transformasi Negatif, Transformasi Logaritmik, Operasi Sharpening, Penghilangan Noise, Bit Plane Slicing, dan Histogram Equalization menggunakan library OpenCV (cv2), NumPy (np) dan Matplotlib (matplotlib.pyplot atau plt). 
 
