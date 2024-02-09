@@ -37,7 +37,8 @@ Kontras Stretching efektif dalam meningkatkan kontras dan mengurangi distribusi 
 Bit plane slice memungkinkan kita untuk melihat informasi pada bit tertentu dalam citra.
 	
 ![image](https://github.com/itakrisna/Peningkatan-Kualitas-Citra-dengan-Python-OpenCV-Numpy-Matplotlib/assets/152336076/83e1a7af-3425-4a80-8959-4b9a58a3e493)
- 
+
+
 8.     Histogram equalization 
 Histogram equalization adalah teknik yang kuat untuk meningkatkan kontras dan memperjelas detail gambar dengan mendistribusikan ulang nilai piksel.
 	
